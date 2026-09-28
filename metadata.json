@@ -1,0 +1,6 @@
+{
+  "name": "VISOR Sleep Tracker",
+  "description": "A futuristic sleep tracking dashboard with animated 3D-like visuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
